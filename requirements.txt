@@ -1,0 +1,7 @@
+dash
+dash-bootstrap-components
+pyodbc
+urllib.parse
+bcrypt
+logging
+flask
